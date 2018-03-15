@@ -1,0 +1,18 @@
+== Slide 1
+Introduction
+Consiste a maintenir l'ensemble des version d'un ou de plusieurs fichiers.
+Tache fadistieuse a faire manuellement.
+Donc des outils sont apparus.
+
+== Slide 2
+CVCS (Centralized Version Control System)
+C'est ce qu'on a avec SVN. Cela reprends tous les avantages et inconvénient d'un système centralisé.
+
+AKA: Single Point of failure. Facile a mettre en place...
+
+== Slide 3 
+DVCS (Distributed Version Control System)
+Cette fois-ci, on ne parle plus de client-serveur. Toutes les machines ont une copie du dépot.
+
+== Slide 4
+
